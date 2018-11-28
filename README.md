@@ -29,3 +29,6 @@ Instructions
 3. Enter the predecessor (assigned letter) of each process.
 4. Specify the time of each process.
 5. The critical path will be shown in blue.
+
+Link of the video:
+https://youtu.be/FDXqOAf8Aek
