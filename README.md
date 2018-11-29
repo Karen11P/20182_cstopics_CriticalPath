@@ -30,5 +30,8 @@ Instructions
 4. Specify the time of each process.
 5. The critical path will be shown in blue.
 
+![captura](https://user-images.githubusercontent.com/45362728/49238072-a95ba180-f3cd-11e8-8e03-3d7653ccd873.JPG)
+
+
 Link of the video:
 https://youtu.be/FDXqOAf8Aek
