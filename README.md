@@ -34,10 +34,13 @@ Example:
 ![step 1](https://user-images.githubusercontent.com/45362728/49258534-c317db80-f403-11e8-9819-2bfc5c725b7a.JPG)
 
 3. Enter the predecessor (assigned letter) of each process.
+
 ![step 2](https://user-images.githubusercontent.com/45362728/49258539-c8752600-f403-11e8-906c-c60bd98b6fd0.JPG)
 4. Specify the time of each process.
+
 ![step 3](https://user-images.githubusercontent.com/45362728/49258544-cdd27080-f403-11e8-9c4b-6ba44cb8eb6d.JPG)
 5. The critical path will be shown in blue.
+
 ![terminal result 1](https://user-images.githubusercontent.com/45362728/49258553-d3c85180-f403-11e8-8964-5839838dbd48.JPG)
 ![terminal result 2](https://user-images.githubusercontent.com/45362728/49258557-d88d0580-f403-11e8-9af0-12862029d8b5.JPG)
 
