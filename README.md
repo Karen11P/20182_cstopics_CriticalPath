@@ -10,8 +10,11 @@ has to satisfy the constraints given previously.
 
 Critical path:
 A critical path is a sequence of activities that show the time each one can take to be 
-done. In the case that one activity can't take longer than the set time it will be part of 
-the critical path. It has three components: 
+done. In the case that one activity that can't take longer than the set time it will be part of 
+the critical path, in other words, It’s a sequence of activities where you figure out what the
+least amount of time is necessary to complete a task with the least amount of slack.
+So, the critical path is really the longest length of time it will take to complete the project tasks.
+It has three components: 
   * A list of activities
   * The duration that each activity will take to complete
   * The dependencies between the activities.
