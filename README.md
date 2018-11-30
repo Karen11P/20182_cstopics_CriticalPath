@@ -8,7 +8,7 @@ A CSP consist of three components: 1. A set of variables, 2. A set of domains an
 3. A set of constraints. Each variable in the tree will be set following a domain, it
 has to satisfy the constraints given previously.
 
-#Critical path:
+## Critical path:
 A critical path is a sequence of activities that show the time each one can take to be 
 done. In the case that one activity that can't take longer than the set time it will be part of 
 the critical path, in other words, It’s a sequence of activities where you figure out what the
@@ -19,17 +19,24 @@ It has three components:
   * The duration that each activity will take to complete
   * The dependencies between the activities.
   
- To solve the critical path us
+## Solution
+To solve the critical path using a CSP algorithm, we have:
+1. Variables: The number of processes
+2. Domains: The processes
+3. Constraints: Each predecessor or dependency
+
+Flow diagram of the program:
+![captura](https://user-images.githubusercontent.com/45362728/49238072-a95ba180-f3cd-11e8-8e03-3d7653ccd873.JPG)
   
 There will be an example with screenshots in the 'example' folder.
 
+## Instructions:
 To execute the program:
 1. Open the terminal
 2. Use cd to access the folder "20182_cstopics_CriticalPath"
 3. Write "python3 criticalPath.py" in the terminal and press ENTER
 
-Instructions
-Example:
+## Example:
 
 ![example](https://user-images.githubusercontent.com/45362728/49258528-be532780-f403-11e8-842d-8b468954ef23.JPG)
 
@@ -50,10 +57,6 @@ Example:
 
 ![terminal result 1](https://user-images.githubusercontent.com/45362728/49258553-d3c85180-f403-11e8-8964-5839838dbd48.JPG)
 ![terminal result 2](https://user-images.githubusercontent.com/45362728/49258557-d88d0580-f403-11e8-9af0-12862029d8b5.JPG)
-
-Flow diagram of the program:
-![captura](https://user-images.githubusercontent.com/45362728/49238072-a95ba180-f3cd-11e8-8e03-3d7653ccd873.JPG)
-
 
 Link of the video:
 https://youtu.be/FDXqOAf8Aek
